@@ -48,7 +48,7 @@ Future field datasets (e.g. from Sahel cooperatives) will be added under `datase
 
 ## How to cite
 
-> Seo, H. (2026). *GroundTruth: privacy-preserving LiDAR sensing-to-MRV for farm labour. HOMI dataset (first release).* https://github.com/HJ-SEO-UL/groundtruth
+> Seo, H. (2026). *GroundTruth: privacy-preserving LiDAR sensing-to-MRV for farm labour. HOMI dataset (first release).* https://github.com/HJ-SEO-UL/groundtruth-dataset
 
 ## Contact
 
