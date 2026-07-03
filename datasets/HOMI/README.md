@@ -64,4 +64,4 @@ HOMI is intended as ground evidence for verifying climate-smart farm practices f
 
 Data is licensed under [CC BY 4.0](LICENSE-DATA). Please cite:
 
-> Seo, H. (2026). *HOMI: a ground-level LiDAR dataset of agricultural worker activity.* Part of the GroundTruth system. https://github.com/<owner>/groundtruth
+> Seo, H. (2026). *HOMI: a ground-level LiDAR dataset of agricultural worker activity.* Part of the GroundTruth system. https://github.com/HJ-SEO-UL/groundtruth-dataset
