@@ -6,6 +6,10 @@ GroundTruth reads the *motion of farm labour* with a single low-cost, fixed LiDA
 
 This repository is open by default. Its first dataset is **HOMI**, a ground-level LiDAR dataset of agricultural worker activity.
 
+## Demo
+
+[![GroundTruth demo](https://img.youtube.com/vi/hPJL1ykCRRs/maxresdefault.jpg)](https://youtu.be/hPJL1ykCRRs)
+
 ---
 
 ## Why this exists
